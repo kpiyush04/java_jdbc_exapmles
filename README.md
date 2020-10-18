@@ -1,5 +1,4 @@
 # java_jdbc_exapmles
-java_jdbc_exapmles
 
 ### Tech Used
     Java, PostgreSQl
